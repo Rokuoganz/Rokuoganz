@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🔭Hi, it's Francesco here, or Rokuogan if you prefer XD.
+🌱I'm a master's student in Computer Science. My field of study is Data Science & Machine Learning.<br/>
+🤝Feel free to check out my profile if you're interested.
 
 <!--
 **Rokuoganz/Rokuoganz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
