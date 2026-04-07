@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rokuoganz&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Rokuoganz&theme=dracula&row=1&column=6" height="150" />
 </div>
 
 ###
