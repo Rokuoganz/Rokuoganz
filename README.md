@@ -33,14 +33,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="25" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Rokuoganz&theme=dracula" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=Rokuoganz&theme=dracula&row=1&column=6" height="150" />
 </div>
